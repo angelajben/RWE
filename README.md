@@ -1,4 +1,4 @@
-# RWE
+# RWE study
 Annotate code for data cleaning and analysis for the Real-World Evidence study in Malawian hospitals.
 
 
